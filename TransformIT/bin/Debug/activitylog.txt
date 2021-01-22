@@ -1,0 +1,33 @@
+Inbox/NewMail - R: URGENT || SAI Failures for TIM, Italy Subscribers in Ufone Network
+Inbox/NewMail - RE: WAP for Hafizabad BSCs monthly PM activity for the month of Mar, 2014 .
+Ticket /NewMail - [TT-NOC-N-140211-1120-MJ]: Trouble Ticket for DSP Fault in LAH-SIWF1
+Ticket /NewMail - [TT-NOC-N-140211-1120-MJ]: Trouble Ticket for DSP Fault in LAH-SIWF1
+Inbox/NewMail - RE: [AUTOMATED TICKET REGISTERED] [TT-NSSOPS--CCCMS-20140606-1]  FW: INCOMING CALL ISSUE
+Ticket /NewMail - [TT-NOC-N-140122-2337-MJ]: Trouble Ticket for NE disconnected & disconnected with EWS alarms in LAH-GMSC3A
+Ticket /NewMail - [TT-NOC-N-140201-1229-MJ]: Trouble Ticket for Some resources on the board are fault alarm on LAH-VMGW2
+Ticket /NewMail - [TT-NOC-N-140210-0458-MN]: Trouble Ticket for Routine test failure of SPF board” In LAH-VMGW4
+Ticket /NewMail - [TT-NOC-N-140226-1742-MN]: Trouble Ticket for Severe Bit Error of the TDM Switching Network Board & associated alarms in LAH-GMGW3A
+Ticket /NewMail - [TT-NOC-N-140122-2337-MJ]: Trouble Ticket for NE disconnected & disconnected with EWS alarms in LAH-GMSC3A
+Ticket /NewMail - [TT-NOC-N-140201-1229-MJ]: Trouble Ticket for Some resources on the board are fault alarm on LAH-VMGW2
+Ticket /NewMail - [TT-NOC-N-140210-0458-MN]: Trouble Ticket for Routine test failure of SPF board” In LAH-VMGW4
+Ticket /NewMail - [TT-NOC-N-140226-1742-MN]: Trouble Ticket for Severe Bit Error of the TDM Switching Network Board & associated alarms in LAH-GMGW3A
+Inbox/NewMail - RE: [TT-NOC-N-140226-1742-MN]: Trouble Ticket for Severe Bit Error of the TDM Switching Network Board & associated alarms in LAH-GMGW3A
+Ticket /NewMail - [TT-NOC-N-140122-2337-MJ]: Trouble Ticket for NE disconnected & disconnected with EWS alarms in LAH-GMSC3A
+Ticket /NewMail - [TT-NOC-N-140201-1229-MJ]: Trouble Ticket for Some resources on the board are fault alarm on LAH-VMGW2
+Ticket /NewMail - [TT-NOC-N-140210-0458-MN]: Trouble Ticket for Routine test failure of SPF board” In LAH-VMGW4
+Ticket /NewMail - [TT-NOC-N-140226-1742-MN]: Trouble Ticket for Severe Bit Error of the TDM Switching Network Board & associated alarms in LAH-GMGW3A
+Inbox/NewMail - RE: [TT-NOC-N-140226-1742-MN]: Trouble Ticket for Severe Bit Error of the TDM Switching Network Board & associated alarms in LAH-GMGW3A
+Inbox/NewMail - RE: [TT-NOC-N-140226-1742-MN]: Trouble Ticket for Severe Bit Error of the TDM Switching Network Board & associated alarms in LAH-GMGW3A
+Ticket /NewMail - [TT-NOC-N-140611-0217-MJ]: 5-23PM
+Ticket /NewMail - [TT-NOC-N-140611-0217-MJ]: 5-23PM
+Inbox/NewMail - RE: [TT-NOC-N-140611-0217-MJ]: 5-23PM
+Inbox/NewMail - RE: [TT-NOC-N-140611-0217-MJ]: 5-23PM
+Inbox/NewMail - RE: [NSSVENDOR WAP REGISTERED] [NSSVENDORWAP--NSSKHI,NSSISB,NSSLHE,NSSFSD-20140611-1]  Information Collection from All Master HLRs
+Inbox/NewMail - RE: [AUTOMATED TICKET REGISTERED] [TT-NSSOPS--NSS Operations-20140618-1]  FW: IMSI Status Required
+Inbox/NewMail - RE: [AUTOMATED TICKET REGISTERED] [TT-NSSOPS--CCCMS-20140620-1]  FW: Confirmation Required " international call issue"3348083653
+Inbox/NewMail - FW: LAN Switches Integration with NMS
+Ticket /NewMail - [AUTOMATED TICKET REGISTERED] [TT-NSSOPS--Islamabad-20200803-0]  Micro Sites ID Required 
+Ticket /NewMail - [AUTOMATED TICKET REGISTERED] [TT-NSSOPS--Islamabad-20200803-1]  Micro Sites ID Required 
+Ticket /NewMail - [AUTOMATED TICKET REGISTERED] [TT-NSSOPS--Islamabad-20200803-3]  Micro Sites ID Required 
+Inbox/NewMail - PTML - NSS - UserActivity - OMU0@172.31.56.68
+Inbox/NewMail - PTML - NSSNorth – ISBUSN –omu2@172.29.101.150
